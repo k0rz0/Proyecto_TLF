@@ -1,0 +1,244 @@
+[
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Teléfono",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Email",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Mi$Clave2024",
+    "token_type": "CONTRASEÑA",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "john_doe",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "XYZ45T",
+    "token_type": "PLACA",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "y",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 1)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "ABC123",
+    "token_type": "PLACA",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "del",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Placa",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "2024-06-15",
+    "token_type": "FECHA",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "o",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 1)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "25/12/2024",
+    "token_type": "FECHA",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "de",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 2)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Fecha",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "http://portal.gov.co",
+    "token_type": "URL",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "y",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 1)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "https://www.ejemplo.com/pagina",
+    "token_type": "URL",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Sitio",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "301-456-7890",
+    "token_type": "TELÉFONO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "o",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 1)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "+573009876543",
+    "token_type": "TELÉFONO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "o",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 1)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "3001234567",
+    "token_type": "TELÉFONO",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "en",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 2)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "o",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 1)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "soporte@empresa.com",
+    "token_type": "EMAIL",
+    "is_valid": true,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "en",
+    "token_type": "USUARIO",
+    "is_valid": false,
+    "errors": [
+      "Longitud mínima 3 caracteres (tiene 2)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-09 14:28:17",
+    "input_type": "TEXT",
+    "value": "Contáctenos",
+    "token_type": "USUARIO",
+    "is_valid": true,
+    "errors": []
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tests/test_automata.py)",
+      "Bash(python tests/test_automata.py)",
+      "PowerShell(python --version 2>&1)",
+      "PowerShell(if \\($?\\) { \"Python OK\" } else { \"No encontrado\" })",
+      "PowerShell(python3 --version)",
+      "PowerShell(py --version)",
+      "PowerShell(py -3 --version)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
